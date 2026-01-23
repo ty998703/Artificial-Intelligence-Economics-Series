@@ -39,13 +39,25 @@
 ## 🚀 Key Projects
 ### ⚖️ The Economics of Information Pollution in the Age of AI: General Equilibrium, Welfare, and Policy Design
 
-[![Project](https://img.shields.io/badge/🌐%20%20Project-InfoPollution-blue.svg)](https://github.com/ty998703/Info-Pollution-AI)
-[![Status](https://img.shields.io/badge/✅%20%20Status-Working%20Paper-green.svg)](#)
+[![Status](https://img.shields.io/badge/✅%20%20Status-Accepted%20%26%20Presented-success.svg)](#)
 [![arXiv](https://img.shields.io/badge/arXiv-2509.13729-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2509.13729)
 [![GitHub](https://img.shields.io/badge/Code-Stata%20%26%20R-181717.svg?logo=GitHub)](https://github.com/ty998703/Info-Pollution-AI)
-![GitHub Stars](https://img.shields.io/github/stars/ty998703/Info-Pollution-AI)
+
+[![UNU-Macau](https://img.shields.io/badge/📢%20%20Presentation-UNU%20Macau%20AI%20Conf%202025-blue.svg)](https://unu.edu/macau/aiconf2025)
+[![Tencent-CGS](https://img.shields.io/badge/🏆%20%20Award-Tencent--CGS%20Academic%20Conf-orange.svg)](https://bschool.nus.edu.sg/cgs/cgs-and-tencent-come-together-to-spotlight-research-on-technology-for-good/)
 
 > **Abstract:** 该研究构建了一个一般均衡模型（General Equilibrium），分析 AI 生成内容如何导致信息污染。研究重点探讨了福利评估（Welfare Analysis）以及在信息爆炸环境下如何进行最优政策设计（Policy Design）。
+
+
+### 🌐 Beyond Private or Public: Large Language Models as Quasi-Public Goods in the AI Economy
+
+[![Status](https://img.shields.io/badge/✅%20%20Status-Accepted%20%26%20Presented-success.svg)](#)
+[![arXiv](https://img.shields.io/badge/arXiv-2509.13265-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2509.13265)
+[![GitHub](https://img.shields.io/badge/Code-Stata%20%26%20R-181717.svg?logo=GitHub)](https://github.com/ty998703/Artificial-Intelligence-Economics-Series)
+
+[![UNU-Macau](https://img.shields.io/badge/📢%20%20Presentation-UNU%20Macau%20AI%20Conf%202025-blue.svg)](https://unu.edu/macau/aiconf2025)
+
+> **Abstract:** 该研究提出将大语言模型（LLMs）视为 **“准公共物品”（Quasi-Public Goods）** 的新颖框架。通过构建 AI 经济模型，分析了其在排他性与非竞争性之间的动态平衡，并探讨了这种独特性对市场结构、社会福利分配以及全球 AI 监管政策设计的深远影响。
 
 ---
 ---
