@@ -59,6 +59,14 @@
 
 > **Abstract:** 该研究提出将大语言模型（LLMs）视为 **“准公共物品”（Quasi-Public Goods）** 的新颖框架。通过构建 AI 经济模型，分析了其在排他性与非竞争性之间的动态平衡，并探讨了这种独特性对市场结构、社会福利分配以及全球 AI 监管政策设计的深远影响。
 
+
+### 🧩 Generative AI and Information Asymmetry: Impacts on Adverse Selection and Moral Hazard
+
+[![Status](https://img.shields.io/badge/🔍%20%20Status-Working%20Paper-orange.svg)](#)
+[![arXiv](https://img.shields.io/badge/arXiv-2502.12969-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2502.12969)
+[![GitHub](https://img.shields.io/badge/Code-Stata%20%26%20R-181717.svg?logo=GitHub)](https://github.com/ty998703/Artificial-Intelligence-Economics-Series)
+
+> **Abstract:** 该研究深入探讨了生成式人工智能（Generative AI）对信息经济学中核心问题——**逆向选择（Adverse Selection）**与**道德风险（Moral Hazard）**的重塑作用。通过构建理论模型，我们揭示了技术进步对市场契约效率、代理人行为选择以及整体社会福利的复杂影响。
 ---
 ---
 
