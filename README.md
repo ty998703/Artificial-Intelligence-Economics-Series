@@ -21,11 +21,7 @@ We move beyond viewing AI simply as a productivity tool, redefining it instead a
 ## 📖 About Me
 
 
----
-## 🔍 Research Interests
-* **AI & Labor Market**: xxxxx。
-* **AI & Economic Growth**: xxxxx。
-* **AI & Application Micro**: xxxxx。
+
 
 ---
 
