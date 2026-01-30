@@ -7,9 +7,6 @@ As Generative AI reshapes the world at an exponential pace, we face a stark acad
 
 <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Zhang%20Tianyang&fontSize=70" width="100%" />
 
-[![Academic](https://img.shields.io/badge/Role-Teaching%20Assistant-blue)](#)
-[![Field](https://img.shields.io/badge/Field-Macroeconomics%20%26%20AI-green)](#)
-[![University](https://img.shields.io/badge/Affiliation-University%20of%20Macau-red)](#)
 
 </div>
 
