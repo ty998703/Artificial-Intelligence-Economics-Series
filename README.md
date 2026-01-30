@@ -5,20 +5,8 @@
 As Generative AI reshapes the world at an exponential pace, we face a stark academic vacuum: traditional economic models struggle to explain a new economic species that boasts zero marginal cost and autonomous creativity. This series brings together seven cutting-edge research papers to fill this void. This is not merely a collection of isolated studies; it is an attempt to reconstruct the edifice of economics for the AI era. We move beyond viewing AI simply as a productivity tool, redefining it instead as a new form of capital and a pervasive ecological environment. By organically connecting these seven works, we establish a theoretical framework that spans macro-dynamics, meso-market structures, and micro-mechanisms, answering three fundamental questions about our future:
 
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Zhang%20Tianyang&fontSize=70" width="100%" />
 
 
-</div>
-
-*欢迎贡献、提交 issue 和反馈！*  
-欢迎给我们的仓库点个 ⭐ 保持关注。
-
-## 📖 About Me
-
-
-
-
----
 
 # 🔈 最新动态
 
